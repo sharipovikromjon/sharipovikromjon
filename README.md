@@ -13,16 +13,17 @@
 I have a solid foundation in web development and a passion for building both the visual and back-end components of web applications.
 
 **Front-end:** 
-* <i class="devicon-html5-plain"></i> HTML5 
-* <i class="devicon-css3-plain"></i> CSS3
-* <i class="devicon-bootstrap-plain"></i> Bootstrap
-* <i class="devicon-jquery-plain"></i> jQuery
-* <i class="devicon-javascript-plain"></i> JavaScript
-* <i class="devicon-react-original"></i> React 
+* HTML (Proficient)
+* CSS (Proficient)
+* jQuery (Intermediate)
+* Bootstrap (Intermediate)
+* JavaScript (Intermediate)
+* React (Beginner)
+
 
 **Back-end:**
-* Node.js
-* <i class="devicon-java-plain"></i> Java
+* Node.js (Beginner)
+* Java (Beginner)
 
 
 
