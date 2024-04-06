@@ -23,7 +23,7 @@ I have a solid foundation in web development and a passion for building both the
 
 **Back-end:**
 <br> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" height="35px" title="Understanding the role of the back-end in web architecture, server-side logic, and data handling" /> Back-end <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" height="35px" title="Understanding the role of the back-end in web architecture, server-side logic, and data handling" /> Node.js <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" target="_blank" height="35px" title="Learning Java syntax, object-oriented concepts, and core libraries" /> Java (Beginner) <br>
 
 
