@@ -2,6 +2,7 @@
 
 - 🌱 I'm currently learning both front-end development (JavaScript, React, etc.) and Java. It's been a fun challenge!
 - 📫 How to reach me: ikromjonsharipov924@gmail.com
+- 🚀 This is just the beginning – more interactive projects on the way!
 - ⚡ Fun fact:
 <details>
   <summary>I can solve a Rubik's Cube in under</summary>
