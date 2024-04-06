@@ -4,7 +4,7 @@
 - 📫 How to reach me: ikromjonsharipov924@gmail.com
 - ⚡ Fun fact:
 <details>
-  <summary>I can solve a Rubik's Cube in under </summary>
+  <summary>I can solve a Rubik's Cube in under</summary>
   3 minutes!
 </details>
 
