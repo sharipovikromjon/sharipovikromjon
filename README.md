@@ -1,13 +1,7 @@
 ### Hi, I'm Ikromjon Sharipov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-- 🌱 I'm currently learning both front-end development (JavaScript, React, etc.) and Java. It's been a fun challenge!
-- 📫 How to reach me: ikromjonsharipov924@gmail.com
+- 🌱 I'm currently learning front-end development (JavaScript, React, etc.)
 - 🚀 This is just the beginning – more interactive projects on the way!
-- ⚡ Fun fact:
-<details>
-  <summary>I can solve a Rubik's Cube in under</summary>
-  3 minutes!
-</details>
 
 ## 🛠️ Skills & Technologies
 
@@ -25,7 +19,6 @@ I have a solid foundation in web development and a passion for building both the
 **Back-end:**
 <br> <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" height="37px" title="Understanding the role of the back-end in web architecture, server-side logic, and data handling" /> Node.js (Beginner) <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" target="_blank" height="37px" title="Learning Java syntax, object-oriented concepts, and core libraries" /> Java (Beginner) <br>
 
 
 
