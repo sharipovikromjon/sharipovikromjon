@@ -1,6 +1,6 @@
 ### Hi, I'm Ikromjon Sharipov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-- 🌱 I'm currently learning front-end development (JavaScript, React, etc.)
+- 🌱 I'm currently learning front-end development (JavaScript, React)
 - 🚀 This is just the beginning – more interactive projects on the way!
 
 ## 🛠️ Skills & Technologies
