@@ -5,7 +5,7 @@
 
 ## 🛠️ Skills & Technologies
 
-I have a solid foundation in web development and a passion for building both the visual and back-end components of web applications.
+I have a solid foundation in front-end web development and a passion for building both the visual and back-end components of web applications.
 
 **Front-end:**
 <br> <br>
