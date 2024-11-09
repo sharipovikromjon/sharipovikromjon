@@ -1,11 +1,9 @@
 ### Hi, I'm Ikromjon Sharipov
 
-- 🌱 I'm currently learning front-end development (JavaScript, React)
 - 🚀 This is just the beginning – more interactive projects on the way!
 
 ## 🛠️ Skills & Technologies
-
-I have a solid foundation in front-end web development and a passion for building both the visual and back-end components of web applications.
+#JavaScript, #React, Tailwand CSS, Sass/Scss, Git/GitHub
 
 **Front-end:**
 <br> <br>
