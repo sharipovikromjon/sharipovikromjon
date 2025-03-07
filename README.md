@@ -1,6 +1,3 @@
-### Hi, I'm Ikromjon Sharipov
-
-- 🚀 This is just the beginning – more interactive projects on the way!
-
+## Ikromjon Sharipov
 ## 🛠️ Skills & Technologies
-JavaScript, React, Tailwand CSS, Scss, Git
+Next.js, Typescript, React.js, JavaScript, Tailwand CSS, MUI, Scss, Git
